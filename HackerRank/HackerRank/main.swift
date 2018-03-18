@@ -8,5 +8,14 @@
 
 import Foundation
 
-print("Hello, World!")
+//Reduced string
+var ip = ["aaabccddd","aa","baab","a"]
+for s in ip{
+    reduce(string: s)
+}
 
+//strong password
+var spIp = ["Ab1","#HackerRank","4700"]
+for s in spIp{
+    print(isStrong(password: s))
+}
