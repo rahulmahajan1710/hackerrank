@@ -11,10 +11,6 @@ import Foundation
 
 //let n = Int(readLine()!)!
 //let pw = readLine()!
-let numbers = "0123456789"
-let lower_case = "abcdefghijklmnopqrstuvwxyz"
-let upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-let special_characters = "!@#$%^&*()-+"
 
 
 

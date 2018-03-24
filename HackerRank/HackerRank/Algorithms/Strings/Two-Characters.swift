@@ -21,6 +21,9 @@ func twoCharacters(input : String) -> Int{
 }
 
 func isAlernate(_ string: String) -> Bool {
+    
+ 
+    
     var alt = false
     var i = 0
     let count = string.count
